@@ -2,6 +2,7 @@
   "name": "gif-expert-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://chukastur.github.io/react-busca-gif/",
   "type": "module",
   "scripts": {
     "dev": "vite",
